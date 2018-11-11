@@ -1,0 +1,13 @@
+@media only screen  and (max-width: 600px){
+    .logo .container{
+        max-width: 300px;
+    }
+    .logo img:nth-child(2){
+        height: 50px;
+       top: 7px;
+    }
+.logo h1{
+    font-size: 15px;
+    top: 7px;
+}
+}
